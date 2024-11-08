@@ -1,0 +1,60 @@
+{
+    "monuments": [
+        {
+            "name": "Tour Eiffel",
+            "lat": 48.8584,
+            "lng": 2.2945,
+            "image": "eiffel.jpg",
+            "info": "La Tour Eiffel, construite en 1889, est l'un des monuments les plus célèbres au monde. Elle mesure 324 mètres de haut et offre une vue panoramique sur Paris."
+        },
+        {
+            "name": "Musée du Louvre",
+            "lat": 48.8606,
+            "lng": 2.3376,
+            "image": "louvre.jpg",
+            "info": "Le Louvre est le plus grand musée d'art du monde, abritant des milliers d'œuvres dont la Joconde et la Vénus de Milo."
+        },
+        {
+            "name": "Cathédrale Notre-Dame",
+            "lat": 48.853,
+            "lng": 2.3499,
+            "image": "notre_dame.jpg",
+            "info": "La Cathédrale Notre-Dame, un magnifique exemple de l'architecture gothique française, fut achevée au XIIIe siècle et est connue pour ses tours emblématiques et ses vitraux."
+        },
+        {
+            "name": "Arc de Triomphe",
+            "lat": 48.8738,
+            "lng": 2.295,
+            "image": "arc_de_triomphe.jpg",
+            "info": "L'Arc de Triomphe honore ceux qui ont combattu et sont morts pour la France lors des guerres de la Révolution française et napoléoniennes. Il se situe à l'extrémité ouest des Champs-Élysées."
+        },
+        {
+            "name": "Basilique du Sacré-Cœur",
+            "lat": 48.8867,
+            "lng": 2.3431,
+            "image": "sacre_coeur.jpg",
+            "info": "La Basilique du Sacré-Cœur, située au point culminant de Paris sur la butte Montmartre, est connue pour ses dômes blancs et ses vues panoramiques sur la ville."
+        },
+        {
+            "name": "Palais de Versailles",
+            "lat": 48.8049,
+            "lng": 2.1204,
+            "image": "versailles.jpg",
+            "info": "Le Palais de Versailles, ancienne résidence royale de Louis XIV, est célèbre pour sa galerie des Glaces et ses vastes jardins."
+        },
+        {
+            "name": "Panthéon",
+            "lat": 48.8462,
+            "lng": 2.345,
+            "image": "pantheon.jpg",
+            "info": "Le Panthéon est un mausolée contenant les restes de citoyens français illustres, dont Voltaire, Rousseau et Victor Hugo."
+        },
+        {
+            "name": "Place de la Concorde",
+            "lat": 48.8656,
+            "lng": 2.3212,
+            "image": "place_de_la_concorde.jpg",
+            "info": "La Place de la Concorde est l'une des principales places publiques de Paris et a été le théâtre de nombreux événements notables pendant la Révolution française."
+        }
+    ]
+}

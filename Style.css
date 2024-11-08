@@ -1,0 +1,48 @@
+/* Style du corps */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+/* Titre principal */
+h1 {
+    color: #333;
+    margin-top: 20px;
+}
+
+/* Carte */
+#map {
+    height: 600px;
+    width: 80%;
+    margin: 20px auto;
+    border: 2px solid #333;
+}
+
+/* Panneau d'information */
+#info-panel {
+    display: none;
+    position: fixed;
+    top: 10%;
+    left: 10%;
+    width: 300px;
+    background: white;
+    padding: 20px;
+    border: 2px solid #333;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+}
+
+/* Bouton pour fermer le panneau d'information */
+#close-info {
+    float: right;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+/* Image du monument */
+#monument-image {
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
